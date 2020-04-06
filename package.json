@@ -17,8 +17,5 @@
     "url": "https://github.com/vkd-w/vkd-w.github.io/issues"
   },
   "homepage": "https://github.com/vkd-w/vkd-w.github.io#readme",
-  "dependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-react-app": "^3.1.2"
-  }
+  "dependencies": {}
 }
